@@ -1,15 +1,19 @@
 ## Skilled at
-
+<div align=center>
+  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badges&logo=HTML5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badges&logo=CSS3&logoColot=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badges&logo=JavaScript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badges&logo=React&logoColor=white)
 
+
 <!--
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dudwls128)](https://solved.ac/dudwls128/)
 -->
+
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=dudwls128)](https://solved.ac/dudwls128)
+
 <!--
 깃허브 등급
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=son-young-jin&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
@@ -30,3 +34,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+</div>
