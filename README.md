@@ -6,6 +6,7 @@
 ![React](https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badges&logo=React&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badges&logo=HTML5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badges&logo=CSS3&logoColor=white)
+
 ![AmazonS3](https://img.shields.io/badge/AmazonS3-569A31.svg?&style=for-the-badges&logo=AmazonS3&logoColor=white)
 ![Git](https://img.shields.io/badge/git-F05032.svg?&style=for-the-badges&logo=git&logoColor=white)
 <!--![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?&style=for-the-badges&logo=TypeScript&logoColor=white)-->
