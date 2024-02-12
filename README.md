@@ -32,7 +32,6 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=dudwls128)](https://solved.ac/dudwls128)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyoung-jin-son&count_bg=%2330313E&title_bg=%2322202A&icon=&icon_color=%23997373&title=+&edge_flat=false)](https://hits.seeyoufarm.com)
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=son-young-jin)](https://github.com/anuraghazra/github-readme-stats)-->
 <!--
 깃허브 등급
