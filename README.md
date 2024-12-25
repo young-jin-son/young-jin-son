@@ -2,9 +2,12 @@
 <div align=center>
 
 ![React](https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badges&logo=React&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badges&logo=JavaScript&logoColor=white)
+
+<div align=left><h3>Studying</h3></div>
+
 ![Next](https://img.shields.io/badge/Next.js-000000?style=for-the-badges&logo=Next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?&style=for-the-badges&logo=TypeScript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badges&logo=JavaScript&logoColor=white)
 <!--![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badges&logo=HTML5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badges&logo=CSS3&logoColor=white)
 
@@ -19,12 +22,13 @@
 <div align=left>
 <h3>Basic Knowledge</h3>
 </div>
+<!--
+![Figma](https://img.shields.io/badge/Figma-F24E1E.svg?&style=for-the-badges&logo=Figma&logoColor=white)-->
 
-![Figma](https://img.shields.io/badge/Figma-F24E1E.svg?&style=for-the-badges&logo=Figma&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badges&logo=Python&logoColor=white)
 ![C++](https://img.shields.io/badge/C\+\+-00599C.svg?&style=for-the-badges&logo=cplusplus&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badges&logo=c&logoColor=white)
-<!--![Java](https://img.shields.io/badge/Java-666666.svg?&style=for-the-badges&logo=java&logoColor=white)-->
+![Java](https://img.shields.io/badge/Java-666666.svg?&style=for-the-badges&logo=java&logoColor=white)
 
 
 <!--
